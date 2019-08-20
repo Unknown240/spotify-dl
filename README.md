@@ -30,20 +30,11 @@ npm install -g spotify-dl
 ```
 or You can do manually
 ```sh
-git clone https://github.com/SwapnilSoni1999/spotify-dl
+git clone https://github.com/Unknown240/spotify-dl
 cd spotify-dl
 npm install
 npm link
 ```
-
-#### Android (Termux)
-
-```sh
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/SwapnilSoni1999/spotify-dl/master/tools/termux.sh)"
-```
-
-&nbsp;
-
 
 
 #### Usage
