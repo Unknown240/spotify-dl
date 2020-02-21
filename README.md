@@ -7,7 +7,9 @@
 </p>
 
 #Installation / Run
+
 -7z x spotify-dl.7z
+
 - " bash run "
 
 #Spotify-Download
