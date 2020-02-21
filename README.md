@@ -8,7 +8,7 @@
 
 #Installation / Run
 
--7z x spotify-dl.7z
+- 7z x spotify-dl.7z
 
 - " bash run "
 
