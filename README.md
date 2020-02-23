@@ -13,5 +13,6 @@
 - " bash run "
 
 #Spotify-Download
-- Mengambil Lagu Dari Youtube
 - Lagu ada di luar folder Spotify-dl, dan bernama "Music"
+- Metadata dari youtube
+- Lagu tidak ditemukan? Akan mengambil data dari youtube. 
