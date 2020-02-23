@@ -16,3 +16,4 @@
 - Lagu ada di luar folder Spotify-dl, dan bernama "Music"
 - Metadata dari youtube
 - Lagu tidak ditemukan? Akan mengambil data dari youtube. 
+- File MP3
